@@ -18,4 +18,4 @@ For availability of kits and bare PCBs please see http://madole.net/1802/mini/ki
 
 ![1802/Mini Backplane Front](https://github.com/dmadole/1802-Mini-Backplane/blob/main/photos/1802-mini-backplane-assembled.jpg)
 ![1802/Mini Backplane System](https://github.com/dmadole/1802-Mini-Backplane/blob/main/photos/1802-mini-backplane-system.jpg)
-![1802/Mini Backplane 14 Slots](https://github.com/dmadole/1802-Mini-Backplane/blob/main/photos/1802-mini-14-slot-backplane.jpg)
+![1802/Mini Backplane 14 Slots](https://github.com/dmadole/1802-Mini-Backplane/blob/main/photos/1802-mini-backplane-14-slot.jpg)
